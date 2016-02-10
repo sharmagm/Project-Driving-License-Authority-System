@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<drivingLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>PRATEEK KHANNA</Name>
+  <FatherName>PANKAJ KHANNA</FatherName>
+  <Address>BALAJI GARDEN CHS, KOPARKHAIRANE, NAVI MUMBAI</Address>
+  <Pin>400709</Pin>
+  <BG>A+</BG>
+  <DOB>9/1/2002 12:00:00 AM</DOB>
+  <CountryName>THE UNION OF INDIA</CountryName>
+  <StateName>MAHARASHTRA STATE MOTOR DRIVNG LICENSE</StateName>
+  <DLNumber>MH43 20090024412</DLNumber>
+  <IssuingId>MH43 20090024412</IssuingId>
+  <DOI>9/1/2002 12:00:00 AM</DOI>
+  <ValidTill>9/1/2002 12:00:00 AM</ValidTill>
+  <COV1>MCWG</COV1>
+  <COV2>LMV</COV2>
+</drivingLicense>
